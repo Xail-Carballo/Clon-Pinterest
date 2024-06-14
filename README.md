@@ -15,7 +15,8 @@ Este proyectop es un clon de la interfaz de inicio de *Pinterest*, creado con **
 +   **Google Icons** : Para los iconos de perfil de usuario, notificaciones, etc.
 
 
-### Vista Previa del Proyecto  📁
+### Vista Previa del Proyecto  👀
+![Demo](/images/VISTA_PREVIA.png)
 
 + ### Contacto
 
